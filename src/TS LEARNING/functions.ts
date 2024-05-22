@@ -60,6 +60,7 @@ interface User extends UserDetails, UserEducation {
     key: string
 }
 
+// Change
 const user: User = {
     name: "SDvcsdv",
     age: 45,
